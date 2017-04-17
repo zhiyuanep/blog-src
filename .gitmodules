@@ -4,3 +4,6 @@
 [submodule "themes/material-flow"]
 	path = themes/material-flow
 	url = https://github.com/zhiyuanep/hexo-theme-material-flow.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/zhiyuanep/hexo-theme-next.git
