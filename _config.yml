@@ -7,7 +7,7 @@ title: zhylee's Blog
 subtitle: 本该狂妄的年纪，怎能如此消极？
 description:
 author: zhylee
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Disqus
 disqus_shortname: zhylee
