@@ -157,7 +157,7 @@ Hexo 使用 [Moment.js](http://momentjs.com/)来解析和显示时间。
 | `theme` | 当前主题名称。值为 `false` 时禁用主题 |
 | `deploy` | 部署部分的设置 |
 
-关于 `deploy` 的详细设置请参考[此处]()。``
+关于 `deploy` 的详细设置请参考[此处](#部署)。
 
 ---
 
